@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf_Lab18", "Wpf_Lab18\Wpf_Lab18.csproj", "{19DB951C-3B86-4EA3-A602-DC353ECD90E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Lab18_cube", "WPF_Lab18_cube\WPF_Lab18_cube.csproj", "{984D0ADD-FF6D-44FC-93CE-4AC17BB8192C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19DB951C-3B86-4EA3-A602-DC353ECD90E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19DB951C-3B86-4EA3-A602-DC353ECD90E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19DB951C-3B86-4EA3-A602-DC353ECD90E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19DB951C-3B86-4EA3-A602-DC353ECD90E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{984D0ADD-FF6D-44FC-93CE-4AC17BB8192C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{984D0ADD-FF6D-44FC-93CE-4AC17BB8192C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{984D0ADD-FF6D-44FC-93CE-4AC17BB8192C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{984D0ADD-FF6D-44FC-93CE-4AC17BB8192C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DE309D5-A20A-42D1-9B72-BCB163F98889}
+	EndGlobalSection
+EndGlobal
